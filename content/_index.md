@@ -69,13 +69,13 @@ sections:
               * Designing and implementing a parallel and scalable Ray-Tracing algorithm for GPUs for discretizing 3D mesh representation of geometries into a volumetric representation. The implemented algorithm would cut the computational costs of the services offered by MedLear by 30\% in the preparation phase.
               * Manage MedLea computing infrastructure
 
-        - title: Machine Learning Specialist
-          company: MedLear srls
-          company_url: 'https://medlea-tech.com/'
-          company_logo: 'MedLea'
-          location: Rome, Italy
-          date_start: '2020-03-01'
-          date_end: '2021-07-31'
+        - title: Machine Learning Intern
+          company: PaperClicks
+          company_url: 'https://paperclicks.net/'
+          company_logo: 'paperclicks'
+          location: Tirana, Albania
+          date_start: '2018-01-08'
+          date_end: '2018-06-31'
           description: |2-
           
               Main Responsabilities include:
