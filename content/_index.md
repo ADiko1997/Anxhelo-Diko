@@ -27,7 +27,7 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-          
+
   - block: experience
     content:
       title: Experience
@@ -40,19 +40,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Fellow
+          company: Sapienza University of Rome
+          company_url: 'https://www.uniroma1.it'
+          company_logo: 'Uniroma1'
+          location: Rome, Italy
+          date_start: '2021-03-01'
           date_end: ''
           description: |2-
               Responsibilities include:
+              * Designing and implementing computer vision solutions for gait analysis  through RGB videos that assist physicians in diagnosing patients with mobility disorders.
+              * Designing and implementing machine learning approaches for medical image processing.
+              * Designing and implementing machine learning approaches on resource optimization for post-intervention patients.
 
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
