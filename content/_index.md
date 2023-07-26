@@ -47,8 +47,9 @@ sections:
           location: Rome, Italy
           date_start: '2021-03-01'
           date_end: ''
-          description: |3-
+          description: |2-
               Responsibilities include:
+
               * Designing and implementing computer vision solutions for gait analysis  through RGB videos that assist physicians in diagnosing patients with mobility disorders.
               * Designing and implementing machine learning approaches for medical image processing.
               * Designing and implementing machine learning approaches on resource optimization for post-intervention patients.
@@ -60,26 +61,18 @@ sections:
           location: Rome, Italy
           date_start: '2020-03-01'
           date_end: '2021-07-31'
-          description: |3-
+          description: |2-
+          
               Main Responsabilities include:
               * Designing and implementing machine learning algorithms for respiratory diagnosis and prognosis by applying classification, regression, and segmentation techniques on CT images and patient medical history. The implemented solutions would provide MedLea with a suite of algorithms that could analyze patient data for different respiratory problems.
               * Deploying machine learning models.
               * Designing and implementing a parallel and scalable Ray-Tracing algorithm for GPUs for discretizing 3D mesh representation of geometries into a volumetric representation. The implemented algorithm would cut the computational costs of the services offered by MedLear by 30\% in the preparation phase.
               * Manage MedLea computing infrastructure
 
-        - title: Machine Learning Intern
-          company: PaperClicks 
-          company_url: 'https://paperclicks.net/'
-          company_logo: 'paperclicks'
-          location: Tirana, Albania
-          date_start: '2018-01-08'
-          date_end: '2018-06-31'
-          description: |3-
-              Main Responsabilities include:
-              * Responsible for designing and implementing a machine learning algorithm for the optimization of affiliate marketing campaigns enabling automated profits.
+
             
     design:
-      columns: '3'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
