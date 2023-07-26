@@ -11,22 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -39,27 +23,47 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Fellow
+          company: Sapienza University of Rome
+          company_url: 
+          company_logo: 
+          location: Rome, Italy
+          date_start: '2021-03-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Designing and implementing computer vision solutions for gait analysis  through RGB videos that assist physicians in diagnosing patients with mobility disorders.
+              * Designing and implementing machine learning approaches for medical image processing.
+              * Designing and implementing machine learning approaches on resource optimization for post-intervention patients.
+
+        - title: Machine Learning Specialist
+          company: MedLear srls
+          company_url: 'https://medlea-tech.com/'
+          company_logo: 
+          location: Rome, Italy
+          date_start: '2020-03-01'
+          date_end: '2021-07-31'
+          description: |2-
+              Main Responsabilities include:
+
+              * Designing and implementing machine learning algorithms for respiratory diagnosis and prognosis by applying classification, regression, and segmentation techniques on CT images and patient medical history. The implemented solutions would provide MedLea with a suite of algorithms that could analyze patient data for different respiratory problems.
+              * Deploying machine learning models.
+              * Designing and implementing a parallel and scalable Ray-Tracing algorithm for GPUs for discretizing 3D mesh representation of geometries into a volumetric representation. The implemented algorithm would cut the computational costs of the services offered by MedLear by 30\% in the preparation phase.
+              * Manage MedLea computing infrastructure
+
+        - title: Machine Learning Intern
+          company: PaperClicks 
+          company_url: 'https://paperclicks.net/'
+          company_logo: 
+          location: Tirana, Albania
+          date_start: '2018-01-08'
+          date_end: '2018-06-31'
+          description: |2-
+              Main Responsabilities include:
+
+              * Responsible for designing and implementing a machine learning algorithm for the optimization of affiliate marketing campaigns enabling automated profits.
+            
     design:
       columns: '2'
   - block: accomplishments
@@ -80,24 +84,8 @@ sections:
           date_start: '2021-01-25'
           description: ''
           organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization_url: https://udemy-certificate.s3.amazonaws.com/image/UC-2e52ca6d-7475-4fbd-8957-4ad55d8f0065.jpg
+          title: Advanced C++ programming.
           url: ''
     design:
       columns: '2'
