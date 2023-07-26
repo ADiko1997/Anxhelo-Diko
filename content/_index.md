@@ -40,7 +40,7 @@ sections:
         - title: Machine Learning Specialist
           company: MedLear srls
           company_url: 'https://medlea-tech.com/'
-          company_logo: 'MedLea'
+          # company_logo: 'MedLea'
           location: Rome, Italy
           date_start: '2020-03-01'
           date_end: '2021-07-31'
@@ -55,7 +55,7 @@ sections:
         - title: Machine Learning Intern
           company: PaperClicks 
           company_url: 'https://paperclicks.net/'
-          company_logo: 'paperclicks'
+          # company_logo: 'paperclicks'
           location: Tirana, Albania
           date_start: '2018-01-08'
           date_end: '2018-06-31'
