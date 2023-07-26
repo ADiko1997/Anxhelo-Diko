@@ -53,14 +53,19 @@ sections:
               * Designing and implementing machine learning approaches for medical image processing.
               * Designing and implementing machine learning approaches on resource optimization for post-intervention patients.
 
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Machine Learning Specialist
+          company: MedLear srls
+          company_url: 'https://medlea-tech.com/'
+          company_logo: 'MedLea'
+          location: Rome, Italy
+          date_start: '2020-03-01'
+          date_end: '2021-07-31'
+          description: |2-
+              Main Responsabilities include:
+              * Designing and implementing machine learning algorithms for respiratory diagnosis and prognosis by applying classification, regression, and segmentation techniques on CT images and patient medical history. The implemented solutions would provide MedLea with a suite of algorithms that could analyze patient data for different respiratory problems.
+              * Deploying machine learning models.
+              * Designing and implementing a parallel and scalable Ray-Tracing algorithm for GPUs for discretizing 3D mesh representation of geometries into a volumetric representation. The implemented algorithm would cut the computational costs of the services offered by MedLear by 30\% in the preparation phase.
+              * Manage MedLea computing infrastructure
     design:
       columns: '2'
   - block: accomplishments
