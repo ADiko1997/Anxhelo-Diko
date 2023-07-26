@@ -71,7 +71,7 @@ sections:
 
         - title: Machine Learning Intern
           company: PaperClicks
-          company_url: 'https://medlea-tech.com/'
+          company_url: 'https://paperclicks.net/'
           company_logo: 'paperclicks'
           location: Rome, Italy
           date_start: '2020-03-01'
