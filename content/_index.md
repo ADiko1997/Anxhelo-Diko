@@ -71,8 +71,8 @@ sections:
 
         - title: Machine Learning Intern
           company: PaperClicks
-          company_url: ''
-          company_logo: ''
+          company_url: 
+          company_logo: 
           location: Tirana, Albania
           date_start: '2018-01-08'
           date_end: '2018-06-31'
