@@ -70,7 +70,7 @@ sections:
               * Manage MedLea computing infrastructure
 
         - title: Machine Learning Intern
-          company: MedLear srls
+          company: PaperClicks
           company_url: 'https://medlea-tech.com/'
           company_logo: 'MedLea'
           location: Rome, Italy
