@@ -25,8 +25,8 @@ sections:
       items:
         - title: Research Fellow
           company: Sapienza University of Rome
-          company_url: 
-          company_logo: 
+          company_url: 'https://www.uniroma1.it'
+          company_logo: 'Uniroma1'
           location: Rome, Italy
           date_start: '2021-03-01'
           date_end: ''
@@ -40,7 +40,7 @@ sections:
         - title: Machine Learning Specialist
           company: MedLear srls
           company_url: 'https://medlea-tech.com/'
-          company_logo: 
+          company_logo: 'MedLea'
           location: Rome, Italy
           date_start: '2020-03-01'
           date_end: '2021-07-31'
@@ -55,7 +55,7 @@ sections:
         - title: Machine Learning Intern
           company: PaperClicks 
           company_url: 'https://paperclicks.net/'
-          company_logo: 
+          company_logo: 'paperclicks'
           location: Tirana, Albania
           date_start: '2018-01-08'
           date_end: '2018-06-31'
@@ -83,12 +83,13 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
-          organization_url: https://udemy-certificate.s3.amazonaws.com/image/UC-2e52ca6d-7475-4fbd-8957-4ad55d8f0065.jpg
-          title: Advanced C++ programming.
-          url: ''
+          organization: Udemy0
+          organization_url: 
+          title: Advanced C++ developer.
+          url: 'https://udemy-certificate.s3.amazonaws.com/image/UC-2e52ca6d-7475-4fbd-8957-4ad55d8f0065.jpg'
     design:
       columns: '2'
+
   - block: collection
     id: posts
     content:
@@ -116,6 +117,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
   - block: portfolio
     id: projects
     content:

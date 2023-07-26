@@ -39,6 +39,8 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Sapienza University
+      institution_url: "https://www.uniroma1.it"
+      institution_logo: 'Uniroma1'
       year: 2021 - ongoing
     - course: MSc in Computer Science
       institution: Sapienza University
