@@ -15,18 +15,21 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: Machin Learning
+          description: 5+ Years
+
+        - name: Deep Learning
+          description: 5+ Years
+
+        - name: Computer Vision
+          description: 4+ Years
+
+        - name: Research
+          description: 3+ Years
+
+        - name: Programming
+          description: 5+ Years
+
 
   - block: experience
     content:
