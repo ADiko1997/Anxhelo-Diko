@@ -79,11 +79,8 @@ sections:
           description: |2-
           
               Main Responsabilities include:
-              * Designing and implementing machine learning algorithms for respiratory diagnosis and prognosis by applying classification, regression, and segmentation techniques on CT images and patient medical history. The implemented solutions would provide MedLea with a suite of algorithms that could analyze patient data for different respiratory problems.
-              * Deploying machine learning models.
-              * Designing and implementing a parallel and scalable Ray-Tracing algorithm for GPUs for discretizing 3D mesh representation of geometries into a volumetric representation. The implemented algorithm would cut the computational costs of the services offered by MedLear by 30\% in the preparation phase.
-              * Manage MedLea computing infrastructure
-
+              * Responsible for designing and implementing a machine learning algorithm for the optimization of affiliate marketing campaigns enabling automated profits.
+ 
 
             
     design:
