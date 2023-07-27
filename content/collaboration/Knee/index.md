@@ -1,5 +1,5 @@
 ---
-title: "A novel gan-based anomaly detection and localization method for aerial video surveillance at low altitude"
+title: "A Machine Learning Approach for Knee Injury Detection from Magnetic Resonance Imaging"
 authors:
 - Massimiliano Mangone
 - admin 

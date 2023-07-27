@@ -1,5 +1,5 @@
 ---
-title: "A novel gan-based anomaly detection and localization method for aerial video surveillance at low altitude"
+title: "The Use of Machine Learning for Inferencing the Effectiveness of a Rehabilitation Program for Orthopedic and Neurological Patients"
 authors:
 - Valter Santilli
 - Massimiliano Mangone
@@ -13,7 +13,7 @@ authors:
 - Michela Goffredo
 
 
-date: "2023-4-19"
+date: "2023-04-19"
 doi: ""
 
 
