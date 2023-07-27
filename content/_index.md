@@ -154,6 +154,21 @@ sections:
       columns: '2'
       view: citation
 
+  - block: collection
+    content:
+      title: Collaboration (multidisciplinary)
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./collaboration/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - collaboration
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+
   - block: contact
     id: contact
     content:
