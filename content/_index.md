@@ -156,7 +156,7 @@ sections:
 
   - block: collection
     content:
-      title: Collaboration (multidisciplinary)
+      title: Collaboration (inter-disciplinary)
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./collaboration/).
