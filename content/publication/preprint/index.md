@@ -1,7 +1,15 @@
 ---
 title: "MS-Faster R-CNN: Multi-stream backbone for improved Faster R-CNN object detection and aerial tracking from UAV images"
 authors:
-- Danilo Avola, Luigi Cinque, Anxhelo Diko, Alessio Fagioli, Gian Luca Foresti, Alessio Mecca, Daniele Pannone, Claudio Piciarelli
+- Danilo Avola
+- Luigi Cinque
+- admin
+- Alessio Fagioli
+- Gian Luca Foresti
+- Alessio Mecca
+- Daniele Pannone
+- Claudio Piciarelli
+
 date: "2021-04-25"
 doi: ""
 
@@ -57,6 +65,7 @@ url_pdf: https://www.mdpi.com/2072-4292/13/9/1670
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
