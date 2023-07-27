@@ -13,7 +13,7 @@ authors:
 - Alessio Mecca
 - Daniele Pannone
 
-date: "2022-8-22"
+date: "2022-08-22"
 doi: ""
 
 
