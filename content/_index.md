@@ -142,10 +142,10 @@ sections:
   - block: collection
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication
@@ -157,10 +157,10 @@ sections:
   - block: collection
     content:
       title: Collaboration (inter-disciplinary)
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./collaboration/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./collaboration/).
+      #   {{% /callout %}}
       filters:
         folders:
           - collaboration
