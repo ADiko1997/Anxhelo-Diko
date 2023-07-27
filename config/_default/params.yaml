@@ -15,10 +15,10 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    site_type: Portfolio
+    local_business_type: 'Anxhelo Diko'
+    org_name: 'Anxhelo Diko'
+    description: 'AI & ML Researcher whith focus on Computer Vision'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
