@@ -51,12 +51,14 @@ sections:
           date_start: '2024-03-18'
           date_end: 
           description: |2-
-          Conducting research on the following areas of computer vision:
-            * Multimodal Large Language Models
-            * Long-term Video Understanding
-            * Dense video captioning
-            * Temporal Event Localization
-            * Question and Anserwing from Videos
+            Conducting research on the following areas of computer vision:
+
+              * Multimodal Large Language Models
+              * Long-term Video Understanding
+              * Dense video captioning
+              * Temporal Event Localization
+              * Question and Anserwing from Videos
+              
         - title: Research Fellow
           company: Sapienza University of Rome
           company_url: 'https://www.uniroma1.it'
