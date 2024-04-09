@@ -43,6 +43,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Computer Vision Research Scientist
+          company: Huawer Research Center Helsinki
+          company_url: https://huaweifinlandrnd.teamtailor.com/
+          company_logo: 'huawei'
+          location: Helsinki, Finland
+          date_start: '2024-03-18'
+          date_end: 
+          description: |2-
+          Conducting research on the following areas of computer vision:
+            * Multimodal Large Language Models
+            * Long-term Video Understanding
+            * Dense video captioning
+            * Temporal Event Localization
+            * Question and Anserwing from Videos
+            
         - title: Research Fellow
           company: Sapienza University of Rome
           company_url: 'https://www.uniroma1.it'

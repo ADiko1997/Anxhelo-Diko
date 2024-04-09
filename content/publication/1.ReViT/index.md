@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: https://www.mdpi.com/2078-2489/13/1/2
+url_pdf: https://arxiv.org/pdf/2402.11301.pdf
 url_code: 'https://github.com/ADiko1997/ReViT'
 # url_dataset: '#'
 # url_poster: '#'
