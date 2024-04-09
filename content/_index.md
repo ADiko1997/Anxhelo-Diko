@@ -57,7 +57,6 @@ sections:
             * Dense video captioning
             * Temporal Event Localization
             * Question and Anserwing from Videos
-            
         - title: Research Fellow
           company: Sapienza University of Rome
           company_url: 'https://www.uniroma1.it'
