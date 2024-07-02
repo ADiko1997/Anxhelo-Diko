@@ -1,5 +1,5 @@
 ---
-title: "S-GEAR: Semantically Guided Representation Learning for Action Anticipation"
+title: "S-GEAR: Semantically Guided Representation Learning for Action Anticipation (ECCV2024)"
 authors:
 - admin
 - Danilo Avola
@@ -32,7 +32,7 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: 'cooming soon'
-url_code: 'comming soon'
+url_code: 'https://github.com/ADiko1997/S-GEAR/tree/main'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
