@@ -1,5 +1,5 @@
 ---
-title: "ReViT: Enhancing vision transformers with residual attention"
+title: "ReViT: Enhancing vision transformers with residual attention (Journal of Pattern Recognition)"
 authors:
 - admin
 - Danilo Avola
