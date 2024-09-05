@@ -4,7 +4,7 @@ title: Anxhelo Diko
 
 # Full name (for SEO)
 first_name: Anxhelo
-last_name: Wu
+last_name: Diko
 
 # Status emoji
 status:
