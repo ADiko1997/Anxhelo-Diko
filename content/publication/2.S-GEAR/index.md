@@ -31,7 +31,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'cooming soon'
+url_pdf: 'https://arxiv.org/pdf/2407.02309v1'
 url_code: 'https://github.com/ADiko1997/S-GEAR/tree/main'
 # url_dataset: '#'
 # url_poster: '#'
