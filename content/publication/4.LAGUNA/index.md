@@ -1,5 +1,5 @@
 ---
-title: "S-GEAR: Semantically Guided Representation Learning for Action Anticipation (ECCV2024)"
+title: "LAGUNA: LAnguage Guided UNsupervised Adaptation with structured spaces"
 authors:
 - admin
 - Antonino Furnari

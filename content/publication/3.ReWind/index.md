@@ -1,5 +1,5 @@
 ---
-title: "S-GEAR: Semantically Guided Representation Learning for Action Anticipation (ECCV2024)"
+title: "ReWind: Understanding Long Videos with Instructed Learnable Memory"
 authors:
 - admin
 - Tinghuai Wang
