@@ -31,7 +31,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'cooming soon'
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2024W/DFAD/papers/Lanzino_Faster_Than_Lies_Real-time_Deepfake_Detection_using_Binary_Neural_Networks_CVPRW_2024_paper.pdf'
 url_code: 'https://openaccess.thecvf.com/content/CVPR2024W/DFAD/papers/Lanzino_Faster_Than_Lies_Real-time_Deepfake_Detection_using_Binary_Neural_Networks_CVPRW_2024_paper.pdf'
 # url_dataset: '#'
 # url_poster: '#'
