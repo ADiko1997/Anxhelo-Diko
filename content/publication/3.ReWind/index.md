@@ -1,5 +1,5 @@
 ---
-title: "ReWind: Understanding Long Videos with Instructed Learnable Memory"
+title: "ReWind: Understanding Long Videos with Instructed Learnable Memory (CVPR2025)"
 authors:
 - admin
 - Tinghuai Wang

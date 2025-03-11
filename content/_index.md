@@ -43,13 +43,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Applied Scientist II Intern
+          company: Amazon Prime Video UK
+          company_url: 'https://www.amazon.jobs/it/teams/prime-video'
+          company_logo: 'amazon'
+          location: London, UK
+          date_start: '2025-03-03'
+          date_end: '2025-08-29'
+          description: |2-
+            Conducting research on the following areas of computer vision:
+
+              * Multimodal Foundation Models
+              * Video Quality Assesment
+              * Sound Quality Assesment
+              * Very Long Contenxtual Understanding
+
         - title: Computer Vision Research Scientist
-          company: Huawer Research Center Helsinki
+          company: Huawei Research Center Helsinki
           company_url: https://huaweifinlandrnd.teamtailor.com/
           company_logo: 'huawei'
           location: Helsinki, Finland
           date_start: '2024-03-18'
-          date_end: 
+          date_end: '2024-09-30'
           description: |2-
             Conducting research on the following areas of computer vision:
 
