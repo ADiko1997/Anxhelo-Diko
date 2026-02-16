@@ -6,7 +6,7 @@ authors:
 - Luigi Cinque
 - Giovanni Maria Farinella
 
-date: "2025"
+date: "2025-01-01"
 doi: ""
 
 
