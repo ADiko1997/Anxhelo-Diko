@@ -43,6 +43,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Scientist (internship)
+          company: Meta Reality Labs
+          company_url: 'https://about.meta.com/realitylabs/'
+          company_logo: 'meta'
+          location: Burlingame, California
+          date_start: '2025-08-01'
+          date_end: '2026-01-31'
+          description: |2-
+            Research on elastic and distributed VJEPA world models that can be deployed on diverse compute environments targetting cross-device communication.
+
         - title: Applied Scientist II Intern
           company: Amazon Prime Video UK
           company_url: 'https://www.amazon.jobs/it/teams/prime-video'
