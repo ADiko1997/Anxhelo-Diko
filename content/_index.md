@@ -45,7 +45,7 @@ sections:
       items:
         - title: Research Scientist (internship)
           company: Meta Reality Labs
-          company_url: 'https://about.meta.com/realitylabs/'
+          company_url: 'https://about.meta.com'
           company_logo: 'meta'
           location: Burlingame, California
           date_start: '2025-08-01'
